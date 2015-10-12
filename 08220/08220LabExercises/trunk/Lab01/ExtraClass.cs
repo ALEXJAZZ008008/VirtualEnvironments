@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Lab01
 {
-    class Program
+    class ExtraClass
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
     }
 }
