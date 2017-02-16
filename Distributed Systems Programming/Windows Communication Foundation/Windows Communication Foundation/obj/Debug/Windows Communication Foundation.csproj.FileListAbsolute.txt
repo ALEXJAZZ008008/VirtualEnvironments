@@ -1,0 +1,8 @@
+Z:\Distributed Systems Programming\Windows Communication Foundation\Windows Communication Foundation\bin\Debug\Windows Communication Foundation.exe.config
+Z:\Distributed Systems Programming\Windows Communication Foundation\Windows Communication Foundation\bin\Debug\Windows Communication Foundation.exe
+Z:\Distributed Systems Programming\Windows Communication Foundation\Windows Communication Foundation\bin\Debug\Windows Communication Foundation.pdb
+Z:\Distributed Systems Programming\Windows Communication Foundation\Windows Communication Foundation\bin\Debug\WcfTranslationLibrary.dll
+Z:\Distributed Systems Programming\Windows Communication Foundation\Windows Communication Foundation\bin\Debug\WcfTranslationLibrary.pdb
+Z:\Distributed Systems Programming\Windows Communication Foundation\Windows Communication Foundation\obj\Debug\Windows Communication Foundation.csprojResolveAssemblyReference.cache
+Z:\Distributed Systems Programming\Windows Communication Foundation\Windows Communication Foundation\obj\Debug\Windows Communication Foundation.exe
+Z:\Distributed Systems Programming\Windows Communication Foundation\Windows Communication Foundation\obj\Debug\Windows Communication Foundation.pdb
