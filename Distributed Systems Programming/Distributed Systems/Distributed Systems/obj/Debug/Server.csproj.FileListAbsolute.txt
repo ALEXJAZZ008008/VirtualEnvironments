@@ -1,6 +1,0 @@
-Z:\Distributed Systems Programming\Distributed Systems\Distributed Systems\bin\Debug\Distributed Systems.exe.config
-Z:\Distributed Systems Programming\Distributed Systems\Distributed Systems\bin\Debug\Distributed Systems.exe
-Z:\Distributed Systems Programming\Distributed Systems\Distributed Systems\bin\Debug\Distributed Systems.pdb
-Z:\Distributed Systems Programming\Distributed Systems\Distributed Systems\obj\Debug\Server.csprojResolveAssemblyReference.cache
-Z:\Distributed Systems Programming\Distributed Systems\Distributed Systems\obj\Debug\Distributed Systems.exe
-Z:\Distributed Systems Programming\Distributed Systems\Distributed Systems\obj\Debug\Distributed Systems.pdb
