@@ -1,0 +1,6 @@
+Z:\Distributed Systems Programming\Client Server Communication\Client Server Communication\bin\Debug\Client Server Communication.exe.config
+Z:\Distributed Systems Programming\Client Server Communication\Client Server Communication\bin\Debug\Client Server Communication.exe
+Z:\Distributed Systems Programming\Client Server Communication\Client Server Communication\bin\Debug\Client Server Communication.pdb
+Z:\Distributed Systems Programming\Client Server Communication\Client Server Communication\obj\Debug\Client.csprojResolveAssemblyReference.cache
+Z:\Distributed Systems Programming\Client Server Communication\Client Server Communication\obj\Debug\Client Server Communication.exe
+Z:\Distributed Systems Programming\Client Server Communication\Client Server Communication\obj\Debug\Client Server Communication.pdb
