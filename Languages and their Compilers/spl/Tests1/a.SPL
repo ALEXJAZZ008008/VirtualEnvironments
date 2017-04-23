@@ -1,8 +1,0 @@
-ProgA:
-
-CODE
-
-  WRITE('h','e','l','l','o');
-  NEWLINE
-
-ENDP ProgA.
